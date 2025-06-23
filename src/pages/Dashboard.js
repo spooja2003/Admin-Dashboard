@@ -1,19 +1,3 @@
-// import React from 'react';
-// import { Typography } from '@mui/material';
-
-// const Dashboard = () => (
-//   <div>
-//     <Typography variant="h4" gutterBottom>
-//       Admin Dashboard
-//     </Typography>
-//     <Typography variant="body1">Welcome to your admin panel!</Typography>
-//   </div>
-// );
-
-// export default Dashboard;
-
-
-// src/pages/Dashboard.js
 import React from 'react';
 import { Box, Typography, Grid, Paper } from '@mui/material';
 import {
