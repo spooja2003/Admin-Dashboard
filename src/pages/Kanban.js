@@ -1,4 +1,3 @@
-// src/pages/Kanban.js
 import React from 'react';
 import { Grid, Card, CardContent, Typography } from '@mui/material';
 
